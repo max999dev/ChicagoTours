@@ -1,0 +1,16 @@
+.PlaceList{
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 40px;
+}
+
+.PlaceSpace{
+    width: 100%;
+  text-align: center;
+}
+
+.PlaceSpace > img {
+    width: 100%;
+  height: auto; 
+}
